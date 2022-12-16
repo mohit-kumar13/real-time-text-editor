@@ -1,6 +1,7 @@
 Step:1 
-### 'npm install'
-To install Node modules
+### `npm install`
+To Install Node modules
+
 
 Step:2 
 ### `npm start` 
@@ -14,8 +15,9 @@ Step:3
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
+
 Step:4 
-### 'npm run server:dev'
+### `npm run server:dev`
 
 To run the app in localhost:5000
 Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
